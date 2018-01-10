@@ -11,3 +11,4 @@ Repositorio público de miembros de Andalucía Developers
 | Elena Guzmán | Android developer - C# y Java| [Web](https://about.me/beelzenef), [GitHub](https://github.com/Beelzenef)| Málaga |
 | David Matas | Frontend developer - Javascript / React / Node | [GitHub](https://github.com/davidmatas) | Granada |
 | Antonio Cortes | Go, PHP, Java, C#, JavaScript, Python, ... AKA DrZippie  | [Web](https://antoniocortes.com/), [GitHub](https://github.com/drzippie)| Sevilla |
+| Raúl Caro Pastorino | Student → Web developer (hobbie bash and Python) | [Web](http://www.fryntiz.es), [GitHub](https://github.com/fryntiz) | Cádiz |
