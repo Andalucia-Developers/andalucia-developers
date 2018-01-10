@@ -9,4 +9,4 @@ Repositorio público de miembros de Andalucía Developers
 | Jesús Rodríguez | Angular / Escritor técnico / Profesor | [Web](http://angular-tips.com/), [GitHub](https://github.com/Foxandxss)| Cádiz |
 | Francisco Gallego Salido | Student in Computer Engineering and Maths | [GitHub](https://github.com/fgallegosalido) | Granada |
 | Elena Guzmán | Android developer - C# y Java| [Web](https://about.me/beelzenef), [GitHub](https://github.com/Beelzenef)| Málaga |
-| Antonio Cortes | Go, PHP, Java, C#, Python, ... AKA DrZippie  | [Web](https://antoniocortes.com/), [GitHub](https://github.com/drzippie)| Sevilla |
+| Antonio Cortes | Go, PHP, Java, C#, JavaScript, Python, ... AKA DrZippie  | [Web](https://antoniocortes.com/), [GitHub](https://github.com/drzippie)| Sevilla |
