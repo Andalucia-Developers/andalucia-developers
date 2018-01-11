@@ -15,3 +15,4 @@ Repositorio público de miembros de Andalucía Developers
 | Eduardo Fernández | I used to be a developer like you, but then I took an arrow in the knee. (AKA EduFdezSoy) | [Web](https://edufdezsoy.es/), [GitHub](https://github.com/EduFdezSoy) | Málaga |
 | Juan Domínguez Jara | Web developer: Angular, React, CSS, Node, ... | [Web](https://fuken.xyz), GH: @juandjara | Sevilla |
 | Alejandro Domínguez | Estudiante de Administración de Sistemas Informáticos y Redes | [GitLab](https://gitlab.com/aledomu), [GitHub](https://github.com/aledomu) | Sevilla |
+| Ignacio Baca | Frontend GWT § Backend Java | [GitHub](https://github.com/ibaca) | Málaga |
