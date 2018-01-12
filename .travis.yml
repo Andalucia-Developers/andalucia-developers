@@ -6,4 +6,4 @@ before_script:
   - npm install gulp-markdown-table-to-json
   - npm link gulp
   
-script: gulp && cat ./data.json
+script: gulp
