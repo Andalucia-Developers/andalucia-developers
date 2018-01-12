@@ -4,5 +4,6 @@ node_js:
 before_script:
   - npm install -g gulp-cli
   - npm install gulp-markdown-table-to-json
+  - npm link gulp
   
 script: gulp
