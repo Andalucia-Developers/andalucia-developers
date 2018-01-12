@@ -16,4 +16,5 @@ Repositorio público de miembros de Andalucía Developers
 | Juan Domínguez Jara | Web developer: Angular, React, CSS, Node, ... | [Web](https://fuken.xyz), GH: @juandjara | Sevilla |
 | Alejandro Domínguez | Estudiante de Administración de Sistemas Informáticos y Redes | [GitLab](https://gitlab.com/aledomu), [GitHub](https://github.com/aledomu) | Sevilla |
 | Ignacio Baca | Frontend GWT § Backend Java | [GitHub](https://github.com/ibaca) | Málaga |
-| Alejandro Castilla | Java developer: GWT (front end) and JEE (back end) | [Web](https://alejandro-castilla.com), [GitHub](https://github.com/alejandrocq) | Málaga
+| Alejandro Castilla | Java developer: GWT (front end) and JEE (back end) | [Web](https://alejandro-castilla.com), [GitHub](https://github.com/alejandrocq) | Málaga |
+| María Valderrama | Student (DAW) and frustrated artist. I also program. JavaScript / PHP mostly | [GitHub](https://github.com/mavalroot) | Cádiz |
