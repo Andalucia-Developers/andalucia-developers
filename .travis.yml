@@ -2,7 +2,7 @@ language: node_js
 node_js:
   - "7"
 before_script:
-  - npm install gulp-cli
+  - npm install -g gulp-cli
   - npm install gulp-markdown-table-to-json
   
 script: gulp
