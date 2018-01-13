@@ -16,7 +16,7 @@ Repositorio público de miembros de Andalucía Developers
  Antonio Cortes | Go, PHP, Java, C#, JavaScript, Python, ... AKA DrZippie  | [Web](https://antoniocortes.com/), [GitHub](https://github.com/drzippie)| Sevilla 
  Raúl Caro Pastorino | Student → Web developer (hobbie bash and Python) | [Web](http://www.fryntiz.es), [GitHub](https://github.com/fryntiz) | Cádiz 
  Eduardo Fernández | I used to be a developer like you, but then I took an arrow in the knee. (AKA EduFdezSoy) | [Web](https://edufdezsoy.es/), [GitHub](https://github.com/EduFdezSoy) | Málaga 
- Juan Domínguez Jara | Web developer: Angular, React, CSS, Node, ... | [Web](https://fuken.xyz), GH: @juandjara | Sevilla 
+ Juan Domínguez Jara | Web developer: Angular, React, CSS, Node, ... | [Web](https://fuken.xyz), [GitHub](https://github.com/juandjara) | Sevilla 
  Alejandro Domínguez | Estudiante de Administración de Sistemas Informáticos y Redes | [GitLab](https://gitlab.com/aledomu), [GitHub](https://github.com/aledomu) | Sevilla 
  Ignacio Baca | Frontend GWT § Backend Java | [GitHub](https://github.com/ibaca) | Málaga 
  Alejandro Castilla | Java developer: GWT (front end) and JEE (back end) | [Web](https://alejandro-castilla.com), [GitHub](https://github.com/alejandrocq) | Málaga 
