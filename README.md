@@ -1,8 +1,10 @@
+[![Build Status](https://travis-ci.org/JuanjoSalvador/andalucia-developers.svg?branch=master)](https://travis-ci.org/JuanjoSalvador/andalucia-developers)
+
 # andalucia-developers
 Repositorio público de miembros de Andalucía Developers
 
 ###### Miembros
-  Nombre | Biografía | Web      | Provincia 
+  Nombre | Bio       | Web      | Provincia 
  --------|-----------|----------|-----------
  Juanjo Salvador | Web developer. JS y Python. | [Web](http://juanjosalvador.me), [GitHub](https://github.com/JuanjoSalvador) | Almería 
  Almudena Garcia | BackBackEnd Developer, C++, Python, GNU/Linux y hardware | [Web](http://hatsuit.wordpress.com), [GitHub](https://github.com/almuhs) | Huelva 
