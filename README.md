@@ -21,3 +21,4 @@ Repositorio público de miembros de Andalucía Developers
  Ignacio Baca | Frontend GWT § Backend Java | [GitHub](https://github.com/ibaca) | Málaga 
  Alejandro Castilla | Java developer: GWT (front end) and JEE (back end) | [Web](https://alejandro-castilla.com), [GitHub](https://github.com/alejandrocq) | Málaga 
  María Valderrama | Student (DAW) and frustrated artist. I also program. JavaScript / PHP mostly | [GitHub](https://github.com/mavalroot) | Cádiz 
+Rafael Aybar Segura | Shell,PHP,SQL. | [Web](https://rafaelaybarsegura.wordpress.com/), [GitHub](https://github.com/RafaelAybar) | Almería
