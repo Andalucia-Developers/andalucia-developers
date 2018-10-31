@@ -1,0 +1,27 @@
+{
+  "name": "andalucia-developers",
+  "version": "1.0.0",
+  "description": "Repositorio público de miembros de Andalucía Developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanjoSalvador/andalucia-developers.git"
+  },
+  "keywords": [
+    "andalucia",
+    "developers"
+  ],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/JuanjoSalvador/andalucia-developers/issues"
+  },
+  "homepage": "https://github.com/JuanjoSalvador/andalucia-developers#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-markdown-table-to-json": "^1.0.5"
+  }
+}
