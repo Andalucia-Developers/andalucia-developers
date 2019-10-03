@@ -21,7 +21,8 @@ Repositorio público de miembros de Andalucía Developers
  Ignacio Baca | Frontend GWT § Backend Java | [GitHub](https://github.com/ibaca) | Málaga 
  Alejandro Castilla | Java developer: GWT (front end) and JEE (back end) | [Web](https://alejandro-castilla.com), [GitHub](https://github.com/alejandrocq) | Málaga 
  María Valderrama | Student (DAW) and frustrated artist. I also program. JavaScript / PHP mostly | [GitHub](https://github.com/mavalroot) | Cádiz 
-Rafael Aybar Segura | Shell,PHP,SQL. | [Web](https://rafaelaybarsegura.wordpress.com/), [GitHub](https://github.com/RafaelAybar) | Almería
-Pablo Delgado Flores | DBA Amazon Redshift - Desarrollador WordPress / SQL, PHP, Java... | [Web](https://pablodelgadoflores.com/), [GitHub](https://github.com/pablodelflores) | Sevilla
+ Rafael Aybar Segura | Shell,PHP,SQL. | [Web](https://rafaelaybarsegura.wordpress.com/), [GitHub](https://github.com/RafaelAybar) | Almería
+ Emilio Martínez | Web Developer. Estudiante de Ing. Informática | [GitHub](https://github.com/emrivero) | Sevilla
+ Pablo Delgado Flores | DBA Amazon Redshift - Desarrollador WordPress / SQL, PHP, Java... | [Web](https://pablodelgadoflores.com/), [GitHub](https://github.com/pablodelflores) | Sevilla
 
 Puedes convertir esta tabla en JSON usando el comando `npm run gulp` en el directorio del proyecto 
