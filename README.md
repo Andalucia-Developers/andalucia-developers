@@ -22,6 +22,7 @@ Repositorio público de miembros de Andalucía Developers
  Alejandro Castilla | Java developer: GWT (front end) and JEE (back end) | [Web](https://alejandro-castilla.com), [GitHub](https://github.com/alejandrocq) | Málaga 
  María Valderrama | Student (DAW) and frustrated artist. I also program. JavaScript / PHP mostly | [GitHub](https://github.com/mavalroot) | Cádiz 
 Rafael Aybar Segura | Shell,PHP,SQL. | [Web](https://rafaelaybarsegura.wordpress.com/), [GitHub](https://github.com/RafaelAybar) | Almería
+Emilio Martínez | Web Developer. Estudiante de Ing. Informática | [GitHub](https://github.com/emrivero) | Sevilla
 
 
 Puedes convertir esta tabla en JSON usando el comando `npm run gulp` en el directorio del proyecto 
