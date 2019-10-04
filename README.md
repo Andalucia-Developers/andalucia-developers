@@ -24,5 +24,6 @@ Repositorio público de miembros de Andalucía Developers
  ||Rafael Aybar Segura | Shell,PHP,SQL. | [Web](https://rafaelaybarsegura.wordpress.com/), [GitHub](https://github.com/RafaelAybar) | Almería
  ||Emilio Martínez | Web Developer. Estudiante de Ing. Informática | [GitHub](https://github.com/emrivero) | Sevilla
  ||Pablo Delgado Flores | DBA Amazon Redshift - Desarrollador WordPress / SQL, PHP, Java... | [Web](https://pablodelgadoflores.com/), [GitHub](https://github.com/pablodelflores) | Sevilla
+ |![](https://avatars1.githubusercontent.com/u/13300909)| José Alberto Orejuela García | Físico disfrazado de informático. Python, sobre todo. | [Web](https://josealberto4444.com/), [sourcehut](https://git.sr.ht/~josealberto4444/) | Granada
 
 Puedes convertir esta tabla en JSON usando el comando `npm run gulp` en el directorio del proyecto 
