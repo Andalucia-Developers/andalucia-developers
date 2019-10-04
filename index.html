@@ -1,0 +1,58 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>Andalucia Developers</title>
+  <style type="text/css" media="all">    
+    body {
+      margin: 0;
+      font-family: sans-serif;
+    }
+    header {
+      padding: 3rem 2rem;
+      background-color: rgb(6, 87, 6);
+      color: white;
+    }
+    header h1 {
+      font-weight: 600;
+      line-height: 1.125;
+      margin: 0;
+    }
+    header h2 {
+      font-weight: 400;
+      font-size: 1.25rem;
+      line-height: 1.25;
+      margin: 0;
+    }
+  </style>
+  <link rel="stylesheet" href="https://unpkg.com/normalize.css">
+  <link rel="stylesheet" href="index.css">
+  <meta name="theme-color" content="rgb(6, 87, 6)">
+</head>
+<body>
+  <!--[if IE]>
+    <p style="margin: 1rem">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+  <![endif]-->
+  <header>
+    <h1>Andalucía Developers</h1>
+    <h2>Código con denominación de origen</h2>
+  </header>
+  <main id="vue"></main>
+  <script src="https://unpkg.com/vue"></script>
+  <script>
+    new Vue({
+      el: '#vue',
+      data: { people: [] },
+      mounted () {
+        window.fetch('data.json')
+          .then(res => res.json())
+          .then(data => {
+            this.people = data['Miembros'];
+          })
+      }
+    })
+  </script>
+</body>
+</html>
