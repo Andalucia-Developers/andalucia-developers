@@ -1,0 +1,70 @@
+html {
+  text-rendering: optimizeLegibility;
+  font-size: 16px;
+  box-sizing: border-box;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+body {
+  font-family: BlinkMacSystemFont, -apple-system, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1rem;
+}
+
+main {
+  padding: 2rem;
+}
+
+.description {
+  line-height: 1.5;
+}
+
+section {
+  margin-top: 3rem;
+}
+
+section > p {
+  opacity: 0.75;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 3rem;
+}
+
+.name {
+  margin: 12px 0;
+  display: flex;
+  align-items: flex-end;
+}
+
+.name img {
+  border-radius: 4px;
+  margin-right: 8px;
+  margin-bottom: -2px;
+}
+
+.name strong {
+  margin-right: 8px;
+}
+
+small {
+  opacity: 0.75;
+}
+
+.bio {
+  margin: 12px 0;
+}
+
+.links a {
+  margin-right: 12px;
+}

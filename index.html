@@ -1,0 +1,95 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>Andalucia Developers</title>
+  <style type="text/css" media="all">    
+    body {
+      margin: 0;
+      font-family: sans-serif;
+    }
+    header {
+      padding: 3rem 2rem;
+      background-color: rgb(6, 87, 6);
+      color: white;
+    }
+    header h1 {
+      font-weight: 600;
+      line-height: 1.125;
+      margin: 0;
+    }
+    header h2 {
+      font-weight: 400;
+      font-size: 1.25rem;
+      line-height: 1.25;
+      margin: 0;
+    }
+  </style>
+  <link rel="stylesheet" href="https://unpkg.com/normalize.css">
+  <link rel="stylesheet" href="index.css">
+  <meta name="theme-color" content="rgb(6, 87, 6)">
+</head>
+<body>
+  <!--[if IE]>
+    <p style="margin: 1rem">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+  <![endif]-->
+  <header>
+    <h1>Andalucía Developers</h1>
+    <h2>Código con denominación de origen</h2>
+  </header>
+  <main>
+    <p class="description">
+      Hola! Somos un grupo de desarrolladores andaluces que nos organizamos en un grupo de Telegram. <br />
+      Puedes entrar al grupo siguiendo <a href="https://t.me/andaluciadev">este enlace</a>.
+    </p>
+    <section>
+      <p>Miembros:</p>
+      <ul id="vue">
+        <li v-for="member in people">
+          <p class="name">
+            <img :src="member.Foto" v-if="member.Foto" alt="avatar" />
+            <strong>{{ member.Nombre }}</strong>
+            <small>{{ member.Provincia }}</small>
+          </p>
+          <p class="bio">{{ member.Bio }}</p>
+          <p class="links">
+            <a :href="link.link" v-for="link in member.Links">
+              {{link.name}}
+            </a>
+          </p>
+        </li>
+      </ul>
+    </section>
+  </main>
+  <script src="https://unpkg.com/vue"></script>
+  <script>
+    new Vue({
+      el: '#vue',
+      data: { people: [] },
+      mounted () {
+        if (typeof window.fetch !== 'function') {
+          console.info('This browser is not supported')
+          return
+        }
+        window.fetch('data.json')
+          .then(res => res.json())
+          .then(data => {
+            this.people = data['Miembros'].map(d => {
+              d.Foto = d.Foto && d.Foto.replace('![](', '').replace(')', '')
+              d.Links = d.Web.split(',').map(text => {
+                const parts = text.split('](').map(part => part.replace(/[\[\)]/, ''))
+                return {
+                  name: parts[0],
+                  link: parts[1]
+                }
+              })
+              return d
+            })
+          })
+      }
+    })
+  </script>
+</body>
+</html>
