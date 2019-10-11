@@ -4,6 +4,7 @@
 Repositorio público de miembros de Andalucía Developers
 
 ###### Miembros
+
  |Foto | Nombre | Bio       | Web   | RRSS  | Provincia |
  |-----|:-------|:----------|:------|:----------|:----------|
  |![](https://avatars2.githubusercontent.com/u/5058655?s=80)|[Juanjo Salvador](https://github.com/JuanjoSalvador) | Web developer. JS y Python. | [Web](http://jsalvador.me) | [Linkedin](https://www.linkedin.com/in/juanjose-salvador-piedra/) | Almería 
@@ -23,7 +24,7 @@ Repositorio público de miembros de Andalucía Developers
  ||María Valderrama | Student (DAW) and frustrated artist. I also program. JavaScript / PHP mostly | [GitHub](https://github.com/mavalroot) | | Cádiz 
  ||Rafael Aybar Segura | Shell,PHP,SQL. | [Web](https://rafaelaybarsegura.wordpress.com/), [GitHub](https://github.com/RafaelAybar) | | Almería
  |![](https://avatars3.githubusercontent.com/u/30650412?s=80&u=d4432d23c941dba39f4bcf99f6e8605a98540a22&v=4)|Emilio Martínez | Web Developer. Estudiante de Ing. Informática | [GitHub](https://github.com/emrivero) | | Sevilla
- ||Pablo Delgado Flores | DBA Amazon Redshift - Desarrollador WordPress / SQL, PHP, Java... | [Web](https://pablodelgadoflores.com/), [GitHub](https://github.com/pablodelflores) | | Sevilla
+ |![](https://avatars2.githubusercontent.com/u/3759635?s=80)|Pablo Delgado Flores | DBA Amazon Redshift - Desarrollador WordPress / SQL, PHP, Java... | [Web](https://pablodelgadoflores.com/), [GitHub](https://github.com/pablodelflores) | | Sevilla
  |![](https://avatars1.githubusercontent.com/u/13300909?s=80)| José Alberto Orejuela García | Físico disfrazado de informático. Python, sobre todo. | [Web](https://josealberto4444.com/), [sourcehut](https://git.sr.ht/~josealberto4444/) | | Granada
  |![](https://avatars1.githubusercontent.com/u/34597019?s=80)|Isabel Vigil | Web developer. GIS. | [GitHub](https://github.com/ivigilm) | | Sevilla
 
